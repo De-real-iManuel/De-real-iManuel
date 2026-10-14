@@ -43,15 +43,14 @@ I am particularly interested in:
 
 ## Writing and Community
 
-- X / Twitter: https://x.com/De-real-iManuel  
-- Builder at VMCC Builder DAO  
+- X / Twitter: https://x.com/De-real-iManuel   
 - Hosting spaces and reviewing Web3 ecosystem builds
 
 ## Tech
 
 Python · Rust · JavaScript · TypeScript · Solidity · Move · React · SQL
 
-Hedera (HTS/HCS) · Circom · SnarkJS · ZK-SNARKs
+Hedera (HTS/HCS/ATS) · Circom · SnarkJS · ZK-SNARKs • AWS
 
 ## GitHub
 
